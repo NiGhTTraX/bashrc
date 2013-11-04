@@ -9,5 +9,5 @@ Usage
 
 ```bash
 git clone git@github.com:NiGhTTraX/bashrc.git
-ln -s bashrc/.bashrc .bashrc
+ln -s bashrc/bashrc .bashrc
 ```
