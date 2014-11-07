@@ -10,6 +10,7 @@ alias helgrind='valgrind --tool=helgrind'
 alias valgrind='valgrind --leak-check=full --track-origins=yes \
 	--show-reachable=yes'
 alias gitk='gitk --all'
+alias SS='python -m SimpleHTTPServer'
 
 # Wake On Lan settings
 if [ -f ~/.wol ]; then
